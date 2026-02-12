@@ -1,0 +1,27 @@
+{
+  "msas": [
+    {
+      "id": "msa-bace1-20260116-051024",
+      "target_id": "target-bace1-20260114-233050",
+      "s3_path": "s3://bionemo/msa/msa-bace1-20260116-051024/alignment.a3m",
+      "num_sequences": 203,
+      "sequence_length": 501,
+      "model": "msa-search",
+      "error_message": null,
+      "created_at": "2026-01-16T05:10:24.804625"
+    },
+    {
+      "id": "msa-insulin-20260116-051845",
+      "target_id": "target-insulin-20260114-232856",
+      "s3_path": "s3://bionemo/msa/msa-insulin-20260116-051845/alignment.a3m",
+      "num_sequences": 202,
+      "sequence_length": 110,
+      "model": "msa-search",
+      "error_message": null,
+      "created_at": "2026-01-16T05:18:45.284329"
+    }
+  ],
+  "total": 2,
+  "limit": 100,
+  "offset": 0
+}

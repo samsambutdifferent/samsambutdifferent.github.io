@@ -1,0 +1,38 @@
+{
+  "services": [
+    {
+      "name": "msa-search",
+      "ready": 2,
+      "total": 2,
+      "healthy": true
+    },
+    {
+      "name": "openfold2",
+      "ready": 4,
+      "total": 4,
+      "healthy": true
+    },
+    {
+      "name": "genmol",
+      "ready": 3,
+      "total": 3,
+      "healthy": true
+    },
+    {
+      "name": "diffdock",
+      "ready": 8,
+      "total": 8,
+      "healthy": true
+    },
+    {
+      "name": "molecular-fountain",
+      "ready": 1,
+      "total": 1,
+      "healthy": true
+    }
+  ],
+  "total_ready_pods": 18,
+  "cpu_history": [],
+  "memory_history": [],
+  "restart_history": []
+}
