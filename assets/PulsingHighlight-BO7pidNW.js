@@ -1,0 +1,1 @@
+const p="#E3002C",s=(e,n=p)=>({animate:e?{scale:[1,1.02,1],boxShadow:[`0 4px 16px ${n}40`,`0 6px 20px ${n}50`,`0 4px 16px ${n}40`]}:{},transition:e?{duration:1.5,repeat:1/0,ease:"easeInOut"}:{type:"spring",stiffness:400,damping:30},whileHover:{scale:1.03},whileTap:{scale:.97},style:{boxShadow:e?`0 4px 16px ${n}40`:"none"}});export{s as p};
