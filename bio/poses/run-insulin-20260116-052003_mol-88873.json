@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-88873",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-88873",
+      "pose_rank": 1,
+      "confidence": 1.149,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-88873__qed-0.1680__dock-1.1490/poses/pose-0__score-1.1490.sdf",
+      "sdf_content": "protein_ligand_5\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -15.0851   -0.5755    3.5174 B   0  0  0  0  0  2  0  0  0  0  0  0\n  -16.7163   -1.7651    4.4070 N   0  0  0  0  0  4  0  0  0  0  0  0\n  -16.0657   -2.1563    5.4724 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.2059   -1.4236    6.2601 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  CHG  2   1   1   2   1\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-88873",
+      "pose_rank": 2,
+      "confidence": 0.54,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-88873__qed-0.1680__dock-1.1490/poses/pose-1__score-0.5400.sdf",
+      "sdf_content": "protein_ligand_5\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -10.0953    2.4850    5.1284 B   0  0  0  0  0  2  0  0  0  0  0  0\n   -8.6053    4.0970    4.9078 N   0  0  0  0  0  4  0  0  0  0  0  0\n   -8.3364    3.8938    3.6437 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.3606    2.7043    2.9502 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  CHG  2   1   1   2   1\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-88873",
+      "pose_rank": 3,
+      "confidence": -0.6134,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-88873__qed-0.1680__dock-1.1490/poses/pose-2__score--0.6134.sdf",
+      "sdf_content": "protein_ligand_5\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   -6.2512   12.0424    8.6813 B   0  0  0  0  0  2  0  0  0  0  0  0\n   -5.1207   11.5149   10.5009 N   0  0  0  0  0  4  0  0  0  0  0  0\n   -4.7318   12.7267   10.8039 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6461   13.1064   11.5614 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  CHG  2   1   1   2   1\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-88873",
+      "pose_rank": 4,
+      "confidence": -3.3999,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-88873__qed-0.1680__dock-1.1490/poses/pose-3__score--3.3999.sdf",
+      "sdf_content": "protein_ligand_5\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   -4.6206    8.6540   13.1117 B   0  0  0  0  0  2  0  0  0  0  0  0\n   -4.0054    7.1578   11.6117 N   0  0  0  0  0  4  0  0  0  0  0  0\n   -4.9711    6.3035   11.8332 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.0755    5.0046   11.3877 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  CHG  2   1   1   2   1\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-88873",
+      "pose_rank": 5,
+      "confidence": -3.9749,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-88873__qed-0.1680__dock-1.1490/poses/pose-4__score--3.9749.sdf",
+      "sdf_content": "protein_ligand_5\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n   -9.5497    6.0500    1.5775 B   0  0  0  0  0  2  0  0  0  0  0  0\n   -8.9860    4.5635    0.0480 N   0  0  0  0  0  4  0  0  0  0  0  0\n   -9.3706    3.5016    0.7082 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.6195    3.2235    1.2175 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\nM  CHG  2   1   1   2   1\nM  END\n$$$$\n"
+    }
+  ]
+}
