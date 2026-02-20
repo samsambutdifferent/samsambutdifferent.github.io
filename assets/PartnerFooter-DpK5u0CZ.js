@@ -1,6 +1,0 @@
-import{n as t,j as e}from"./index-CUUIcOZZ.js";import{Z as r}from"./zap-BD5g2Tx5.js";/**
- * @license lucide-react v0.303.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const l=t("Calendar",[["rect",{width:"18",height:"18",x:"3",y:"4",rx:"2",ry:"2",key:"eu3xkr"}],["line",{x1:"16",x2:"16",y1:"2",y2:"6",key:"m3sa8f"}],["line",{x1:"8",x2:"8",y1:"2",y2:"6",key:"18kwsl"}],["line",{x1:"3",x2:"21",y1:"10",y2:"10",key:"xt86sb"}]]);function o({colors:n,isDark:s}){return e.jsx("div",{className:"flex items-center justify-center",children:e.jsxs("div",{className:"flex items-center gap-8 px-8 py-4 rounded-xl",style:{background:s?"rgba(255,255,255,0.02)":"rgba(0,0,0,0.01)",border:`1px dashed ${n.borderLight}`},children:[e.jsx("img",{src:"/logos/ddn/logo-ddn-full-mono.svg",alt:"DDN",className:`h-7 ${s?"brightness-0 invert":"brightness-0"}`}),e.jsxs("div",{className:"flex items-center gap-2",children:[e.jsx(r,{size:16,className:"text-entity-nvidia"}),e.jsx("span",{className:"text-sm font-medium",style:{color:n.textSecondary},children:"Powered by NVIDIA AI Blueprint"})]}),e.jsx("img",{src:s?"/logos/nvidia/logo-nvidia-full-color-on-dark.png":"/logos/nvidia/logo-nvidia-full-color-on-light.png",alt:"NVIDIA",className:"h-6 object-contain"})]})})}export{l as C,o as P};
