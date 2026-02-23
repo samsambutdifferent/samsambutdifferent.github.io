@@ -1,3 +1,0 @@
-# Ignore large molecule JSON files
-bio/runs/*.json
-!bio/runs/*.json.gz
