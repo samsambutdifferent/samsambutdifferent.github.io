@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-85278",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-85278",
+      "pose_rank": 1,
+      "confidence": 1.0393,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-85278__qed-0.4190__dock-1.0393/poses/pose-0__score-1.0393.sdf",
+      "sdf_content": "protein_ligand_9\n     RDKit          3D\n\n  5  5  0  0  0  0  0  0  0  0999 V2000\n    2.4187    3.6558    6.1222 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5676    3.6079    6.6340 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4095    4.3664    7.4929 N   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4279    3.5698    7.4867 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.6797    2.7214    6.6170 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  2  1  0\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-85278",
+      "pose_rank": 2,
+      "confidence": 0.5618,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-85278__qed-0.4190__dock-1.0393/poses/pose-1__score-0.5618.sdf",
+      "sdf_content": "protein_ligand_9\n     RDKit          3D\n\n  5  5  0  0  0  0  0  0  0  0999 V2000\n    0.2688    1.0647   12.7501 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7053    0.8655   13.9137 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5625   -0.0241   14.6177 N   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4388    0.5061   15.7904 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5589    1.4602   15.1975 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  2  1  0\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-85278",
+      "pose_rank": 3,
+      "confidence": 0.4167,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-85278__qed-0.4190__dock-1.0393/poses/pose-2__score-0.4167.sdf",
+      "sdf_content": "protein_ligand_9\n     RDKit          3D\n\n  5  5  0  0  0  0  0  0  0  0999 V2000\n    5.5332   -5.1659    9.5943 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4094   -5.3124    9.0468 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4673   -6.3355    8.7510 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5838   -5.5950    8.1655 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4472   -4.4845    8.4051 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  2  1  0\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-85278",
+      "pose_rank": 4,
+      "confidence": -1.5694,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-85278__qed-0.4190__dock-1.0393/poses/pose-3__score--1.5694.sdf",
+      "sdf_content": "protein_ligand_9\n     RDKit          3D\n\n  5  5  0  0  0  0  0  0  0  0999 V2000\n  -11.9696    2.5614    2.0506 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.9626    2.9212    2.7145 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.6948    3.5358    2.5229 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.3059    3.5212    3.7558 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.5491    2.8979    4.0752 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  2  1  0\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-85278",
+      "pose_rank": 5,
+      "confidence": -1.6094,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-85278__qed-0.4190__dock-1.0393/poses/pose-4__score--1.6094.sdf",
+      "sdf_content": "protein_ligand_9\n     RDKit          3D\n\n  5  5  0  0  0  0  0  0  0  0999 V2000\n   -8.0596    6.5711   -0.1854 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.5829    6.5093   -1.3284 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.4499    7.0894   -2.6198 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.4046    6.4402   -3.2017 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.6364    5.7872   -1.9544 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  2  1  0\nM  END\n$$$$\n"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-237082",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-237082",
+      "pose_rank": 1,
+      "confidence": 1.6411,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-237082__qed-0.2300__dock-1.6411/poses/pose-0__score-1.6411.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  4  0  0  0  0  0  0  0  0999 V2000\n  -19.7734    0.3646   -6.6529 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.4955    0.8585   -4.9190 I   0  0  0  0  0  5  0  0  0  0  0  0\n  -21.2321    1.1589   -3.7373 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -20.3511    2.7344   -4.0351 P   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  2  1  0\nM  CHG  1   2   1\nM  RAD  1   2   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-237082",
+      "pose_rank": 2,
+      "confidence": 0.1171,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-237082__qed-0.2300__dock-1.6411/poses/pose-1__score-0.1171.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  4  0  0  0  0  0  0  0  0999 V2000\n  -22.9499   19.6452   -0.4478 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -23.6609   18.1406    0.2996 I   0  0  0  0  0  5  0  0  0  0  0  0\n  -25.7791   18.0313    0.3590 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -25.0755   18.1970    2.0396 P   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  2  1  0\nM  CHG  1   2   1\nM  RAD  1   2   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-237082",
+      "pose_rank": 3,
+      "confidence": -1.4532,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-237082__qed-0.2300__dock-1.6411/poses/pose-2__score--1.4532.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  4  0  0  0  0  0  0  0  0999 V2000\n   -0.1569   23.8929   -7.9863 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0507   23.7729   -9.8034 I   0  0  0  0  0  5  0  0  0  0  0  0\n    1.7481   22.9666  -10.5887 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5841   24.7429  -10.9944 P   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  2  1  0\nM  CHG  1   2   1\nM  RAD  1   2   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-237082",
+      "pose_rank": 4,
+      "confidence": -1.5239,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-237082__qed-0.2300__dock-1.6411/poses/pose-3__score--1.5239.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  4  0  0  0  0  0  0  0  0999 V2000\n  -21.9648   13.8025    6.8289 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -22.2092   13.7369    8.6354 I   0  0  0  0  0  5  0  0  0  0  0  0\n  -24.1957   14.0181    9.3262 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -23.1224   15.4209    9.8026 P   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  2  1  0\nM  CHG  1   2   1\nM  RAD  1   2   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-237082",
+      "pose_rank": 5,
+      "confidence": -1.6047,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-237082__qed-0.2300__dock-1.6411/poses/pose-4__score--1.6047.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  4  0  0  0  0  0  0  0  0999 V2000\n    3.4009    7.2510   16.0639 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.1881    7.5754   16.2326 I   0  0  0  0  0  5  0  0  0  0  0  0\n    5.9175    9.3321   15.2920 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.5520    7.8262   14.4693 P   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  2  1  0\nM  CHG  1   2   1\nM  RAD  1   2   2\nM  END\n$$$$\n"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-190388",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-190388",
+      "pose_rank": 1,
+      "confidence": 1.4156,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-190388__qed-0.4350__dock-1.4156/poses/pose-0__score-1.4156.sdf",
+      "sdf_content": "protein_ligand_0\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    3.2277    1.4121    8.3357 B   0  0  0  0  0  2  0  0  0  0  0  0\n    3.7921    3.6066    6.9297 Cl  0  0  0  0  0  4  0  0  0  0  0  0\n    2.4828    3.1710    5.9120 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.4942    3.3510    4.5578 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.5354    3.6005    2.8009 I   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  5  3  0\nM  CHG  2   1   1   2   3\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-190388",
+      "pose_rank": 2,
+      "confidence": -0.9638,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-190388__qed-0.4350__dock-1.4156/poses/pose-1__score--0.9638.sdf",
+      "sdf_content": "protein_ligand_0\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    6.0895    6.3185    4.7316 B   0  0  0  0  0  2  0  0  0  0  0  0\n    5.5756    4.0261    5.9935 Cl  0  0  0  0  0  4  0  0  0  0  0  0\n    3.9210    4.3296    5.6617 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9148    4.0342    6.5372 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5941    3.6329    7.6532 I   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  5  3  0\nM  CHG  2   1   1   2   3\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-190388",
+      "pose_rank": 3,
+      "confidence": -1.0235,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-190388__qed-0.4350__dock-1.4156/poses/pose-2__score--1.0235.sdf",
+      "sdf_content": "protein_ligand_0\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    6.2995    5.6059    5.1962 B   0  0  0  0  0  2  0  0  0  0  0  0\n    5.2048    5.1661    7.5877 Cl  0  0  0  0  0  4  0  0  0  0  0  0\n    4.6542    3.6725    6.9506 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.7678    2.8616    7.6011 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6272    1.8180    8.4733 I   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  5  3  0\nM  CHG  2   1   1   2   3\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-190388",
+      "pose_rank": 4,
+      "confidence": -1.8561,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-190388__qed-0.4350__dock-1.4156/poses/pose-3__score--1.8561.sdf",
+      "sdf_content": "protein_ligand_0\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n  -15.6020  -29.9078   37.0805 B   0  0  0  0  0  2  0  0  0  0  0  0\n  -14.5500  -28.2977   38.9277 Cl  0  0  0  0  0  4  0  0  0  0  0  0\n  -14.3234  -27.1606   37.6645 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.0014  -25.9768   37.5914 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.8583  -24.4261   37.4818 I   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  5  3  0\nM  CHG  2   1   1   2   3\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-190388",
+      "pose_rank": 5,
+      "confidence": -4.0609,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-190388__qed-0.4350__dock-1.4156/poses/pose-4__score--4.0609.sdf",
+      "sdf_content": "protein_ligand_0\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   -4.7808  -12.2418    7.1193 B   0  0  0  0  0  2  0  0  0  0  0  0\n   -5.3179  -10.2339    8.7900 Cl  0  0  0  0  0  4  0  0  0  0  0  0\n   -6.1599  -11.3838    9.7433 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.9741  -11.0411   10.7853 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -8.0530  -10.6160   12.1293 I   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  2  0\n  2  3  1  0\n  3  4  1  0\n  4  5  3  0\nM  CHG  2   1   1   2   3\nM  END\n$$$$\n"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-192813",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-192813",
+      "pose_rank": 1,
+      "confidence": 1.5052,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-192813__qed-0.3740__dock-1.5052/poses/pose-0__score-1.5052.sdf",
+      "sdf_content": "protein_ligand_1\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n   -2.3514   -4.7077   -8.0149 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7106   -3.7350   -6.9011 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2367   -4.6903   -5.4518 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1559   -3.5159   -3.6693 Si  0  0  0  0  0  3  0  0  0  0  0  0\n   -2.2601   -2.2801   -3.5369 O   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  2  0\nM  CHG  1   5   1\nM  RAD  1   4   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-192813",
+      "pose_rank": 2,
+      "confidence": -0.7905,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-192813__qed-0.3740__dock-1.5052/poses/pose-1__score--0.7905.sdf",
+      "sdf_content": "protein_ligand_1\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    9.7141   18.0336    6.3284 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.7632   16.8623    6.5271 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.8683   17.1070    8.0856 S   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0437   18.1751    7.7807 Si  0  0  0  0  0  3  0  0  0  0  0  0\n    5.0439   18.4375    8.9117 O   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  2  0\nM  CHG  1   5   1\nM  RAD  1   4   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-192813",
+      "pose_rank": 3,
+      "confidence": -3.4196,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-192813__qed-0.3740__dock-1.5052/poses/pose-2__score--3.4196.sdf",
+      "sdf_content": "protein_ligand_1\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n  -26.6112   12.3754   -7.1330 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -27.8995   13.1248   -7.4400 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -29.2927   11.9835   -7.2258 S   0  0  0  0  0  0  0  0  0  0  0  0\n  -28.9456   10.1285   -8.2265 Si  0  0  0  0  0  3  0  0  0  0  0  0\n  -29.9247    9.5509   -9.2538 O   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  2  0\nM  CHG  1   5   1\nM  RAD  1   4   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-192813",
+      "pose_rank": 4,
+      "confidence": -4.2144,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-192813__qed-0.3740__dock-1.5052/poses/pose-3__score--4.2144.sdf",
+      "sdf_content": "protein_ligand_1\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    4.6855   28.6026   -7.6551 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7042   29.2502   -8.5816 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.7401   28.3180  -10.1370 S   0  0  0  0  0  0  0  0  0  0  0  0\n    6.0347   26.2307   -9.7916 Si  0  0  0  0  0  3  0  0  0  0  0  0\n    4.9034   25.3033   -9.3361 O   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  2  0\nM  CHG  1   5   1\nM  RAD  1   4   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-192813",
+      "pose_rank": 5,
+      "confidence": -5.297,
+      "s3_path": "molecules/runs/run-bace1-20260116-051349/struct-bace1-20260116-051118/mol-192813__qed-0.3740__dock-1.5052/poses/pose-4__score--5.2970.sdf",
+      "sdf_content": "protein_ligand_1\n     RDKit          3D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n  -19.8342   -2.3468  -13.0565 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.6702   -1.2593  -12.0049 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.8260   -2.0181  -10.3649 S   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.0138   -2.9820   -9.7735 Si  0  0  0  0  0  3  0  0  0  0  0  0\n  -17.9526   -3.9804   -8.6128 O   0  0  0  0  0  3  0  0  0  0  0  0\n  1  2  1  0\n  2  3  1  0\n  3  4  1  0\n  4  5  2  0\nM  CHG  1   5   1\nM  RAD  1   4   2\nM  END\n$$$$\n"
+    }
+  ]
+}

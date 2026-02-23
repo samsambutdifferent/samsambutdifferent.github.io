@@ -1,0 +1,45 @@
+{
+  "molecule_id": "mol-232201",
+  "poses": [
+    {
+      "id": 1,
+      "molecule_id": "mol-232201",
+      "pose_rank": 1,
+      "confidence": 1.2067,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-232201__qed-0.2770__dock-1.2067/poses/pose-0__score-1.2067.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -14.2185   -7.7447   28.0562 H   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.7253   -7.7708   28.9492 N   0  0  0  0  0  3  0  0  0  0  0  0\n  -14.1796   -6.8460   30.1617 P   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.3424   -7.2894   31.8140 O   0  0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  3\n  3  4  1  0\nM  CHG  2   2   1   4   1\nM  RAD  2   2   2   4   3\nM  ISO  1   1   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 2,
+      "molecule_id": "mol-232201",
+      "pose_rank": 2,
+      "confidence": 0.261,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-232201__qed-0.2770__dock-1.2067/poses/pose-1__score-0.2610.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -10.6844   -4.0459   21.7332 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.8896   -4.0170   22.3831 N   0  0  0  0  0  3  0  0  0  0  0  0\n  -10.1195   -3.3429   23.8377 P   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.4688   -3.7193   24.8332 O   0  0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  3\n  3  4  1  0\nM  CHG  2   2   1   4   1\nM  RAD  2   2   2   4   3\nM  ISO  1   1   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 3,
+      "molecule_id": "mol-232201",
+      "pose_rank": 3,
+      "confidence": -0.0882,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-232201__qed-0.2770__dock-1.2067/poses/pose-2__score--0.0882.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -11.5656   -4.7987   22.6957 H   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.8890   -4.0387   22.8349 N   0  0  0  0  0  3  0  0  0  0  0  0\n   -9.6964   -4.2677   23.9066 P   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7689   -5.4675   25.1346 O   0  0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  3\n  3  4  1  0\nM  CHG  2   2   1   4   1\nM  RAD  2   2   2   4   3\nM  ISO  1   1   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 4,
+      "molecule_id": "mol-232201",
+      "pose_rank": 4,
+      "confidence": -0.3944,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-232201__qed-0.2770__dock-1.2067/poses/pose-3__score--0.3944.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -11.7974   -4.8539   20.9110 H   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.9080   -4.4190   19.9872 N   0  0  0  0  0  3  0  0  0  0  0  0\n  -10.5778   -3.8858   19.2325 P   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7122   -4.8369   18.0927 O   0  0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  3\n  3  4  1  0\nM  CHG  2   2   1   4   1\nM  RAD  2   2   2   4   3\nM  ISO  1   1   2\nM  END\n$$$$\n"
+    },
+    {
+      "id": 5,
+      "molecule_id": "mol-232201",
+      "pose_rank": 5,
+      "confidence": -3.3498,
+      "s3_path": "molecules/runs/run-insulin-20260116-052003/struct-insulin-20260116-051904/mol-232201__qed-0.2770__dock-1.2067/poses/pose-4__score--3.3498.sdf",
+      "sdf_content": "protein_ligand_8\n     RDKit          3D\n\n  4  3  0  0  0  0  0  0  0  0999 V2000\n  -10.5055  -12.2516    3.0730 H   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.5050  -12.3028    2.8462 N   0  0  0  0  0  3  0  0  0  0  0  0\n   -9.0735  -13.0335    1.4667 P   0  0  0  0  0  0  0  0  0  0  0  0\n   -7.4329  -13.3001    1.0305 O   0  0  0  0  0  1  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  3\n  3  4  1  0\nM  CHG  2   2   1   4   1\nM  RAD  2   2   2   4   3\nM  ISO  1   1   2\nM  END\n$$$$\n"
+    }
+  ]
+}
